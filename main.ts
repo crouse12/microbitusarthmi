@@ -1,5 +1,9 @@
 //% weight=0 color=#FFBA3B icon="\uf0ad" block="microbitusarthmi"
 namespace microbitusarthmi {
+         export enum color {
+        WHITE = "White",
+        BLACK = "BLACK"
+     }
     //% group="1.Basic"  
     //% blockId=cls block="Clear screen color %color"
     //% weight=101
