@@ -1,6 +1,6 @@
 {
     "name": "microbitusarthmi",
-    "version": "0.1",
+    "version": "0.3",
     "description": "這是micro:bit的Usart Hmi控制積木",
     "license": "MIT",
     "dependencies": {
