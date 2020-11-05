@@ -5,7 +5,7 @@ namespace microbitusarthmi {
         BLACK = "BLACK"
      }
     //% group="1.Basic"  
-    //% blockId=cls block="Clear screen color %color"
+    //% blockId=cls block="Clear screen color %color1"
     //% weight=101
     export function cls(color1: color):void {
        serial.writeLine("cls "+color1)
